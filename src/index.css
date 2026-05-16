@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@font-face {
+	font-family: "SF Pro Display";
+	src: local("SF Pro Display");
+}
+
+* {
+	font-family: "SF Pro Display", serif;
+}
